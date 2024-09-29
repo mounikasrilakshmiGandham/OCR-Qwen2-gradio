@@ -35,7 +35,7 @@ Follow these steps to set up your environment to run the application:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jahnavi-andey/OCR-Qwen2-gradio
+    git clone https://github.com/mounikasrilakshmiGandham/OCR-Qwen2-gradio
     cd OCR-Qwen2-gradio/OCR
     ```
 
