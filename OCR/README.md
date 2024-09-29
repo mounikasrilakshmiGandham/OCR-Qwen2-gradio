@@ -76,5 +76,5 @@ Make sure to download the **Qwen-2 2B OCR** model checkpoint from Hugging Face:
 2. Access the Deployed App
 
     ```bash
-    https://huggingface.co/spaces/jahnaviandey/OCR
+    https://huggingface.co/spaces/mounikagandham/OCR-Qwen2-gradio
   ```
